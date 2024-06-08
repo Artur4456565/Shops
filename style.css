@@ -1,0 +1,31 @@
+h1{
+text-align:center;
+font-family:Comic Sans MS;
+color:#DC143C;
+}
+div{
+width:900px;
+height:420px;
+background:#f0fff0;
+border:solid 4px black;
+padding:15px;
+margin:0 auto;
+font:12pt Arial;
+line-height:1.5;
+}
+img{
+display:block;
+margin:0 auto;
+width:200px;
+align:center;
+}
+hr{
+color:red;
+background-color:#DC143C;
+width:1000px;
+height:4px;
+}
+p{
+font:24pt Tahoma;
+text-align:center;
+}

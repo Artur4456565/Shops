@@ -1,0 +1,24 @@
+h1{
+text-align:center;
+font-family:Arial;
+color:#DC104C;
+}
+div{
+width:330px;
+height:270px;
+background:#c1d3ff;
+border:solid 3px black;
+padding:10px;
+font:30pt Monotype Corsiva;
+text-align:center;
+float:left;
+margin-right:30px;
+margin-left:50px;
+margin-bottom:40px;
+}
+img{
+width:320px;
+height:220px;
+align:center; 
+border:solid 3px black;
+}
